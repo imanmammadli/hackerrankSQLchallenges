@@ -2,8 +2,9 @@
 
 ![SQLHackerrankGithub](https://github.com/imanmammadli/hackerrankSQLchallenges/assets/110998676/55c96dc8-e757-4c00-922a-cb9fadd2d919)
 
-## Title
+## Title 
 I'm adding all the challenges I've solved in Hackerrank here. My goal is to offer a different perspective for solutions. Currently, not all problems are resolved.
+100% all questions solved.
 
 ## Hackerrank SQL 
 | NO | Challenges | Solutions |
